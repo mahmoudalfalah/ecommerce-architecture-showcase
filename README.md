@@ -1,5 +1,7 @@
 # Auto Parts E-Commerce — Architecture Showcase
 
+**Note:** Curated excerpt from a private production codebase — not a working clone.
+
 > Sanitized, white-labeled excerpt of a private production codebase — built for a Libyan auto parts retailer.
 > The full repo stays private per client agreement. What's here are the files I found most worth talking about.
 
